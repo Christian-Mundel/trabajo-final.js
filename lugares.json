@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "destino": "Barcelona"
+    },
+    {
+        "id": "2",
+        "destino": "Madrid"
+    },
+    {
+        "id": "3",
+        "destino": "Brazil"
+    },
+    {
+        "id": "4",
+        "destino": "Australia"
+    }
+]
